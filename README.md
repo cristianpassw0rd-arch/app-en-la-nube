@@ -1,1 +1,4 @@
-# app-en-la-nube
+Tecnologías
+- Git
+- GitHub
+- Desarrollo Full Stack
